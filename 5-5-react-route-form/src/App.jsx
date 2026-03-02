@@ -77,7 +77,7 @@ import Registration from "./pages/Registration";
 //    Hint:
 //      const [password, setPassword] = useState("");
 //      const [gender, setGender] = useState("");
-//
+
 // 2) Below the email input, create a password field inside a <div className="form-row">.
 //    Hint:
 //      <label htmlFor="password">Password</label>
